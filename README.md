@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- ── HEADER CARD (Orbitron + goldFlow animation, exact design) ── -->
-<img src="https://YOUR_VERCEL_URL/api/header" width="100%" alt="HAZY019"/>
+<img src="https://hazy-readme-cards.vercel.app/api/header" width="100%" alt="HAZY019"/>
 
 <br/><br/>
 
@@ -22,7 +22,7 @@
 <br/><br/>
 
 <!-- ── SKILLS CARD (Orbitron, animated bars, exact HAZY NOIR) ── -->
-<img src="https://YOUR_VERCEL_URL/api/skills" width="100%" alt="Skills"/>
+<img src="https://hazy-readme-cards.vercel.app/api/skills" width="100%" alt="Skills"/>
 
 <br/><br/>
 
@@ -81,7 +81,7 @@ Open for Work  ████████████████████ 100%
 <br/>
 
 <!-- ── FOOTER CARD (Orbitron, exact HAZY NOIR) ── -->
-<img src="https://YOUR_VERCEL_URL/api/footer" width="100%" alt="Footer"/>
+<img src="https://hazy-readme-cards.vercel.app/api/footer" width="100%" alt="Footer"/>
 
 <br/>
 
