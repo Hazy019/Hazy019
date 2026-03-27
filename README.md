@@ -6,4 +6,4 @@
 
 <img src="https://hazy-readme-cards.vercel.app/api/profile?v=1" width="100%" alt="Profile"/>
 
-<img src="https://hazy-readme-cards.vercel.app/api/stack?v=1" width="100%" alt="Stack"/>
+<img src="https://hazy-readme-cards.vercel.app/api/footer?v=1" width="100%" alt="Stack"/>
