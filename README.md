@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://hazy-readme-cards.vercel.app/api/header?theme=dark&v=2" />
-  <img src="https://hazy-readme-cards.vercel.app/api/header?theme=light&v=2"
+          srcset="https://hazy-readme-cards.vercel.app/api/header?theme=dark&v=3" />
+  <img src="https://hazy-readme-cards.vercel.app/api/header?theme=light&v=3"
        width="100%" alt="Kyrell Santillan — Hazy019" />
 </picture>
 
@@ -11,14 +11,14 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://hazy-readme-cards.vercel.app/api/profile?theme=dark&v=2" />
-  <img src="https://hazy-readme-cards.vercel.app/api/profile?theme=light&v=2"
+          srcset="https://hazy-readme-cards.vercel.app/api/profile?theme=dark&v=3" />
+  <img src="https://hazy-readme-cards.vercel.app/api/profile?theme=light&v=3"
        width="100%" alt="Profile" />
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://hazy-readme-cards.vercel.app/api/footer?theme=dark&v=2" />
-  <img src="https://hazy-readme-cards.vercel.app/api/footer?theme=light&v=2"
+          srcset="https://hazy-readme-cards.vercel.app/api/footer?theme=dark&v=3" />
+  <img src="https://hazy-readme-cards.vercel.app/api/footer?theme=light&v=3"
        width="100%" alt="Footer" />
 </picture>
