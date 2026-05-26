@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://hazy-readme-cards.vercel.app/api/header?theme=dark&v=10" />
-  <img src="https://hazy-readme-cards.vercel.app/api/header?theme=light&v=10"
+          srcset="https://hazy-readme-cards.vercel.app/api/header?theme=dark&v=8" />
+  <img src="https://hazy-readme-cards.vercel.app/api/header?theme=light&v=8"
        width="100%" alt="Kyrell Santillan — Hazy019" />
 </picture>
 
@@ -11,15 +11,15 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://hazy-readme-cards.vercel.app/api/profile?theme=dark&v=10" />
-  <img src="https://hazy-readme-cards.vercel.app/api/profile?theme=light&v=10"
+          srcset="https://hazy-readme-cards.vercel.app/api/profile?theme=dark&v=8" />
+  <img src="https://hazy-readme-cards.vercel.app/api/profile?theme=light&v=8"
        width="100%" alt="Profile" />
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://hazy-readme-cards.vercel.app/api/skills?theme=dark&v=10" />
-  <img src="https://hazy-readme-cards.vercel.app/api/skills?theme=light&v=10"
+          srcset="https://hazy-readme-cards.vercel.app/api/skills?theme=dark&v=8" />
+  <img src="https://hazy-readme-cards.vercel.app/api/skills?theme=light&v=8"
        width="100%" alt="Skills and Stack" />
 </picture>
 
