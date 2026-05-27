@@ -1,31 +1,24 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://hazy-readme-cards.vercel.app/api/header?theme=dark&v=19" />
-  <img src="https://hazy-readme-cards.vercel.app/api/header?theme=light&v=19"
-       width="100%" alt="Kyrell Santillan — Hazy019" />
-</picture>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=14&duration=2800&pause=1200&color=1a7f37&center=true&vCenter=true&width=680&height=28&lines=Web+Designer+%7C+Frontend+Engineer+%7C+Next.js;Building+real+products+since+2024;CyberSecurity+%7C+Open+for+Work+%C2%B7+PHT+UTC%2B8" alt="Typing"/>
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://hazy-readme-cards.vercel.app/api/profile?theme=dark&v=19" />
-  <img src="https://hazy-readme-cards.vercel.app/api/profile?theme=light&v=19"
-       width="100%" alt="Profile" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://hazy-readme-cards.vercel.app/api/header?theme=dark&v=20" />
+  <img src="https://hazy-readme-cards.vercel.app/api/header?theme=light&v=20" width="900" style="max-width: 100%; height: auto;" alt="Kyrell Santillan — Hazy019" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://hazy-readme-cards.vercel.app/api/skills?theme=dark&v=19" />
-  <img src="https://hazy-readme-cards.vercel.app/api/skills?theme=light&v=19"
-       width="100%" alt="Skills and Stack" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=13&duration=2800&pause=1200&color=39d353&background=0d1117&width=900&height=32&lines=%20%20%3E_Staging%20Automation%3A%20Web%20Designer%20%7C%20Frontend%20Engineer%20%7C%20Next.js;%20%20%3E_Pipeline%20Status%3A%20Building%20real%20products%20since%202024;%20%20%3E_System%20Target%3A%20CyberSecurity%20%7C%20Open%20for%20Work%20%C2%B7%20PHT%20UTC%2B8" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=13&duration=2800&pause=1200&color=1a7f37&background=ffffff&width=900&height=32&lines=%20%20%3E_Staging%20Automation%3A%20Web%20Designer%20%7C%20Frontend%20Engineer%20%7C%20Next.js;%20%20%3E_Pipeline%20Status%3A%20Building%20real%20products%20since%202024;%20%20%3E_System%20Target%3A%20CyberSecurity%20%7C%20Open%20for%20Work%20%C2%B7%20PHT%20UTC%2B8" width="900" style="max-width: 100%; height: auto;" alt="Typing Status Console"/>
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://hazy-readme-cards.vercel.app/api/footer?theme=dark&v=19" />
-  <img src="https://hazy-readme-cards.vercel.app/api/footer?theme=light&v=19"
-       width="100%" alt="Footer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://hazy-readme-cards.vercel.app/api/profile?theme=dark&v=20" />
+  <img src="https://hazy-readme-cards.vercel.app/api/profile?theme=light&v=20" width="900" style="max-width: 100%; height: auto;" alt="Core Profile System Analytics" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://hazy-readme-cards.vercel.app/api/skills?theme=dark&v=20" />
+  <img src="https://hazy-readme-cards.vercel.app/api/skills?theme=light&v=20" width="900" style="max-width: 100%; height: auto;" alt="Technical Skill Configurations" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://hazy-readme-cards.vercel.app/api/footer?theme=dark&v=20" />
+  <img src="https://hazy-readme-cards.vercel.app/api/footer?theme=light&v=20" width="900" style="max-width: 100%; height: auto;" alt="System Infrastructure Gateway Links" />
 </picture>
