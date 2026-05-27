@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://hazy-readme-cards.vercel.app/api/header?theme=dark&v=23" />
-  <img src="https://hazy-readme-cards.vercel.app/api/header?theme=light&v=20" width="900" style="max-width: 100%; height: auto;" alt="Kyrell Santillan — Hazy019" />
+  <img src="https://hazy-readme-cards.vercel.app/api/header?theme=light&v=23" width="900" style="max-width: 100%; height: auto;" alt="Kyrell Santillan — Hazy019" />
 </picture>
 
 <picture>
@@ -10,22 +10,25 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://hazy-readme-cards.vercel.app/api/profile?theme=dark&v=23" />
-  <img src="https://hazy-readme-cards.vercel.app/api/profile?theme=light&v=20" width="900" style="max-width: 100%; height: auto;" alt="Core Profile System Analytics" />
+  <img src="https://hazy-readme-cards.vercel.app/api/profile?theme=light&v=23" width="900" style="max-width: 100%; height: auto;" alt="Core Profile System Analytics" />
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://hazy-readme-cards.vercel.app/api/skills?theme=dark&v=23" />
-  <img src="https://hazy-readme-cards.vercel.app/api/skills?theme=light&v=20" width="900" style="max-width: 100%; height: auto;" alt="Technical Skill Configurations" />
+  <img src="https://hazy-readme-cards.vercel.app/api/skills?theme=light&v=23" width="900" style="max-width: 100%; height: auto;" alt="Technical Skill Configurations" />
 </picture>
 
 <picture>
-  <img src="https://hazy-readme-cards.vercel.app/pexil_art.gif" width="900" style="max-width: 100%; height: auto;" alt="Pixel Art Terminal Visual" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://hazy-readme-cards.vercel.app/pexil_art_darkmode.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://hazy-readme-cards.vercel.app/pexil_art_lightmode.gif" />
+  <img src="https://hazy-readme-cards.vercel.app/pexil_art_darkmode.gif" width="900" style="max-width: 100%; height: auto;" alt="Pixel Art Terminal Visual" />
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://hazy-readme-cards.vercel.app/api/footer?theme=dark&v=23" />
-  <img src="https://hazy-readme-cards.vercel.app/api/footer?theme=light&v=21" width="900" style="max-width: 100%; height: auto;" alt="System Infrastructure Gateway Links" />
+  <img src="https://hazy-readme-cards.vercel.app/api/footer?theme=light&v=23" width="900" style="max-width: 100%; height: auto;" alt="System Infrastructure Gateway Links" />
 </picture>
+
 <p align="center">
   <a href="https://github.com/Hazy019/hazy-readme-cards"><code>[ DEPLOY YOUR OWN TERMINAL PROFILE ]</code></a>
 </p>
