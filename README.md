@@ -1,20 +1,15 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://hazy-readme-cards.vercel.app/api/header?theme=dark&v=26" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://hazy-readme-cards.vercel.app/api/header?theme=dark&v=28" />
   <img src="https://hazy-readme-cards.vercel.app/api/header?theme=light&v=23" width="900" style="max-width: 100%; height: auto;" alt="Kyrell Santillan — Hazy019" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=1000&color=39d353&background=00000000&width=900&height=32&lines=%3E_Staging%20Automation%3A%20Web%20Designer%20%7C%20Frontend%20Engineer%20%7C%20Next.js;%3E_Pipeline%20Status%3A%20Building%20real%20products%20since%202024;%3E_System%20Target%3A%20CyberSecurity%20%7C%20Open%20for%20Work%20%C2%B7%20PHT%20UTC%2B8" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=1000&color=16a34a&background=00000000&width=900&height=32&lines=%3E_Staging%20Automation%3A%20Web%20Designer%20%7C%20Frontend%20Engineer%20%7C%20Next.js;%3E_Pipeline%20Status%3A%20Building%20real%20products%20since%2024;%3E_System%20Target%3A%20CyberSecurity%20%7C%20Open%20for%20Work%20%C2%B7%20PHT%20UTC%2B8" width="900" style="max-width: 100%; height: auto;" alt="Typing Status Console"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://hazy-readme-cards.vercel.app/api/profile?theme=dark&v=26" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://hazy-readme-cards.vercel.app/api/profile?theme=dark&v=28" />
   <img src="https://hazy-readme-cards.vercel.app/api/profile?theme=light&v=23" width="900" style="max-width: 100%; height: auto;" alt="Core Profile System Analytics" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://hazy-readme-cards.vercel.app/api/skills?theme=dark&v=26" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://hazy-readme-cards.vercel.app/api/skills?theme=dark&v=28" />
   <img src="https://hazy-readme-cards.vercel.app/api/skills?theme=light&v=23" width="900" style="max-width: 100%; height: auto;" alt="Technical Skill Configurations" />
 </picture>
 
@@ -25,7 +20,7 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://hazy-readme-cards.vercel.app/api/footer?theme=dark&v=26" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://hazy-readme-cards.vercel.app/api/footer?theme=dark&v=28" />
   <img src="https://hazy-readme-cards.vercel.app/api/footer?theme=light&v=23" width="900" style="max-width: 100%; height: auto;" alt="System Infrastructure Gateway Links" />
 </picture>
 
