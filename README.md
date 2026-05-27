@@ -19,9 +19,9 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://hazy-readme-cards.vercel.app/pexil_art_darkmode.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="https://hazy-readme-cards.vercel.app/pexil_art_lightmode.gif" />
-  <img src="https://hazy-readme-cards.vercel.app/pexil_art_lightmode.gif" width="900" style="max-width: 100%; height: auto;" alt="Pixel Art Terminal Visual" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://hazy-readme-cards.vercel.app/pexil_art_darkmode.gif?v=1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://hazy-readme-cards.vercel.app/pexil_art_lightmode.gif?v=1" />
+  <img src="https://hazy-readme-cards.vercel.app/pexil_art_darkmode.gif?v=1" width="900" style="max-width: 100%; height: auto;" alt="Pixel Art Terminal Visual" />
 </picture>
 
 <picture>
