@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://hazy-readme-cards.vercel.app/api/header?theme=dark&v=20" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://hazy-readme-cards.vercel.app/api/header?theme=dark&v=21" />
   <img src="https://hazy-readme-cards.vercel.app/api/header?theme=light&v=20" width="900" style="max-width: 100%; height: auto;" alt="Kyrell Santillan — Hazy019" />
 </picture>
 
@@ -9,16 +9,20 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://hazy-readme-cards.vercel.app/api/profile?theme=dark&v=20" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://hazy-readme-cards.vercel.app/api/profile?theme=dark&v=21" />
   <img src="https://hazy-readme-cards.vercel.app/api/profile?theme=light&v=20" width="900" style="max-width: 100%; height: auto;" alt="Core Profile System Analytics" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://hazy-readme-cards.vercel.app/api/skills?theme=dark&v=20" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://hazy-readme-cards.vercel.app/api/skills?theme=dark&v=21" />
   <img src="https://hazy-readme-cards.vercel.app/api/skills?theme=light&v=20" width="900" style="max-width: 100%; height: auto;" alt="Technical Skill Configurations" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://hazy-readme-cards.vercel.app/api/footer?theme=dark&v=20" />
-  <img src="https://hazy-readme-cards.vercel.app/api/footer?theme=light&v=20" width="900" style="max-width: 100%; height: auto;" alt="System Infrastructure Gateway Links" />
+  <img src="https://hazy-readme-cards.vercel.app/api/pexil_art.gif" width="900" style="max-width: 100%; height: auto;" alt="Pixel Art Terminal Visual" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://hazy-readme-cards.vercel.app/api/footer?theme=dark&v=21" />
+  <img src="https://hazy-readme-cards.vercel.app/api/footer?theme=light&v=21" width="900" style="max-width: 100%; height: auto;" alt="System Infrastructure Gateway Links" />
 </picture>
