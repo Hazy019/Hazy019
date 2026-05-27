@@ -19,7 +19,7 @@
 </picture>
 
 <picture>
-  <img src="https://hazy-readme-cards.vercel.app/api/pexil_art.gif" width="900" style="max-width: 100%; height: auto;" alt="Pixel Art Terminal Visual" />
+  <img src="https://hazy-readme-cards.vercel.app/pexil_art.gif" width="900" style="max-width: 100%; height: auto;" alt="Pixel Art Terminal Visual" />
 </picture>
 
 <picture>
