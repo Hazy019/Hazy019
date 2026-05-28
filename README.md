@@ -1,16 +1,16 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://hazy-readme-cards.vercel.app/api/header?theme=dark&v=39" />
-  <img src="https://hazy-readme-cards.vercel.app/api/header?theme=light&v=39" width="900" style="max-width: 100%; height: auto;" alt="Kyrell Santillan — Hazy019" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://hazy-readme-cards.vercel.app/api/header?theme=dark&v=40" />
+  <img src="https://hazy-readme-cards.vercel.app/api/header?theme=light&v=40" width="900" style="max-width: 100%; height: auto;" alt="Kyrell Santillan — Hazy019" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://hazy-readme-cards.vercel.app/api/profile?theme=dark&v=39" />
-  <img src="https://hazy-readme-cards.vercel.app/api/profile?theme=light&v=39" width="900" style="max-width: 100%; height: auto;" alt="Core Profile System Analytics" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://hazy-readme-cards.vercel.app/api/profile?theme=dark&v=40" />
+  <img src="https://hazy-readme-cards.vercel.app/api/profile?theme=light&v=40" width="900" style="max-width: 100%; height: auto;" alt="Core Profile System Analytics" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://hazy-readme-cards.vercel.app/api/skills?theme=dark&v=39" />
-  <img src="https://hazy-readme-cards.vercel.app/api/skills?theme=light&v=39" width="900" style="max-width: 100%; height: auto;" alt="Technical Skill Configurations" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://hazy-readme-cards.vercel.app/api/skills?theme=dark&v=40" />
+  <img src="https://hazy-readme-cards.vercel.app/api/skills?theme=light&v=40" width="900" style="max-width: 100%; height: auto;" alt="Technical Skill Configurations" />
 </picture>
 
 <picture>
@@ -20,13 +20,13 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://hazy-readme-cards.vercel.app/api/footer?theme=dark&v=39" />
-  <img src="https://hazy-readme-cards.vercel.app/api/footer?theme=light&v=39" width="900" style="max-width: 100%; height: auto;" alt="System Infrastructure Gateway Links" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://hazy-readme-cards.vercel.app/api/footer?theme=dark&v=40" />
+  <img src="https://hazy-readme-cards.vercel.app/api/footer?theme=light&v=40" width="900" style="max-width: 100%; height: auto;" alt="System Infrastructure Gateway Links" />
 </picture>
 
 <a href="https://github.com/Hazy019/hazy-readme-cards">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://hazy-readme-cards.vercel.app/api/banner?theme=dark&v=39" />
-    <img src="https://hazy-readme-cards.vercel.app/api/banner?theme=light&v=39" width="900" style="max-width: 100%; height: auto;" alt="Deploy Your Own Terminal Profile" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://hazy-readme-cards.vercel.app/api/banner?theme=dark&v=40" />
+    <img src="https://hazy-readme-cards.vercel.app/api/banner?theme=light&v=40" width="900" style="max-width: 100%; height: auto;" alt="Deploy Your Own Terminal Profile" />
   </picture>
 </a>
